@@ -283,3 +283,5 @@ Possible improvements include:
 * Improved Streamlit UI
 * Cloud deployment
 
+## Deploy
+http://localhost:8501/#prediction-result
